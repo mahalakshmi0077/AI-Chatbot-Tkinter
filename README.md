@@ -18,7 +18,7 @@
    python chatbot.py
 
 ## 📷 Screenshots
-(Add your screenshots here)
+<img width="1357" height="688" alt="chatbot" src="https://github.com/user-attachments/assets/6406988a-8ecb-49a2-9ff5-7dc54e855d0a" />
 
-## 📎 Note
-API key is not included for security reasons.
+
+
